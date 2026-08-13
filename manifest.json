@@ -1,0 +1,9 @@
+{
+  "id": "my-agenda",
+  "name": "My Agenda",
+  "version": "0.4.0",
+  "minAppVersion": "0.15.0",
+  "description": "Local reimplementation: Week/Month agenda views with draggable timelines, click-to-create tasks inline, reading timed checkbox tasks from daily notes.",
+  "author": "Soren",
+  "isDesktopOnly": false
+}
